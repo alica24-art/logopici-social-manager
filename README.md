@@ -1,0 +1,1 @@
+# logopici-social-manager
